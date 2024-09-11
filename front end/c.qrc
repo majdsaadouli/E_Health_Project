@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>secrétaire-médicale.jpg</file>
+  </qresource>
+</RCC>
